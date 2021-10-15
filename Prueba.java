@@ -3,6 +3,6 @@ class Prueba {
       System.out.println("Angel Jesus Santin Betancourt");
 	System.out.println("Ponferrada,1999");
 	System.out.println("Compilando Prueba.java");
-	
+	System.out.println("Leon,Windows 10");
   }
 }
